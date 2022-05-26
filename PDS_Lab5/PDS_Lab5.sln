@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDS_Lab5", "PDS_Lab5\PDS_Lab5.csproj", "{DDC73B77-A988-4B56-94A3-BF7E1E6744C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC73B77-A988-4B56-94A3-BF7E1E6744C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC73B77-A988-4B56-94A3-BF7E1E6744C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC73B77-A988-4B56-94A3-BF7E1E6744C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC73B77-A988-4B56-94A3-BF7E1E6744C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {808DC52C-B6CF-401E-B53D-2449E70B6187}
+	EndGlobalSection
+EndGlobal
